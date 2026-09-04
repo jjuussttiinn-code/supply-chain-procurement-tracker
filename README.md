@@ -40,7 +40,7 @@ This project was completed as part of **MIS 380 — Data Management Systems** at
 
 ---
 
-# *Database Architecture**
+# **Database Architecture**
 
 ## **Entities & Relationships**
 The database contains 15+ entities including:
